@@ -60,3 +60,6 @@ function validBraces(braces) {
 - [HTML & CSS. Professional Website Coding](https://assets.htmlacademy.ru/certificates/intensive/159/1295561.pdf)
 
 ## **Languages**
+
+- **Russian** - Native
+- **English** - B1 (B2 in progress)
