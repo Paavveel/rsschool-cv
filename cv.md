@@ -54,4 +54,9 @@ function validBraces(braces) {
 
 ## **Courses**
 
+- [Profession Front-end Developer](https://assets.htmlacademy.ru/certificates/profession/15/1295561.pdf)
+- [JavaScript. Professional Development of Web Interfaces](https://assets.htmlacademy.ru/certificates/intensive/173/1295561.pdf)
+- [HTML & CSS. Adeptive Website Coding and Automation](https://assets.htmlacademy.ru/certificates/intensive/161/1295561.pdf)
+- [HTML & CSS. Professional Website Coding](https://assets.htmlacademy.ru/certificates/intensive/159/1295561.pdf)
+
 ## **Languages**
