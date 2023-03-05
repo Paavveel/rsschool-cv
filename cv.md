@@ -22,6 +22,34 @@
 
 ## **Code Example**
 
+**Valid Braces KATA from CODEWARS:**
+_Write a function that takes a string of braces, and determines if the order of the braces is valid. It should return true if the string is valid, and false if it's invalid._
+
+```javascript
+function validBraces(braces) {
+  const map = {
+    '(': ')',
+    '{': '}',
+    '[': ']',
+  };
+  const openBraces = Object.keys(map);
+  const openBracketsStack = [];
+
+  for (const b of braces) {
+    if (openBraces.includes(b)) {
+      openBracketsStack.push(b);
+      continue;
+    }
+
+    if (map[openBracketsStack.pop()] !== b) {
+      return false;
+    }
+  }
+
+  return openBracketsStack.length === 0;
+}
+```
+
 ## **Experience**
 
 ## **Courses**
