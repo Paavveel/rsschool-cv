@@ -52,6 +52,8 @@ function validBraces(braces) {
 
 ## **Experience**
 
+Some of my pet projects: [GitHub](https://github.com/Paavveel/hacker-news)
+
 ## **Courses**
 
 - [Profession Front-end Developer](https://assets.htmlacademy.ru/certificates/profession/15/1295561.pdf)
