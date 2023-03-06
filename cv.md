@@ -69,7 +69,7 @@ Some of my pet projects: [GitHub](https://github.com/Paavveel/hacker-news)
   - [React JS](https://www.udemy.com/course/react-from-scratch/)
   - [Docker](https://www.udemy.com/course/docker-ru/)
 
-- **JavaScript/Front-end 2023Q1** (in progress)
+- **RS School - JavaScript/Front-end 2023Q1** (in progress)
 
 ## **Languages**
 
