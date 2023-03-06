@@ -11,6 +11,9 @@
 
 ## **About Me**
 
+I started my career as a system administrator, worked for 7 years. Then I decided to study frontend development. I am interested in web development because this profession provides endless opportunities for professional growth.
+I took various courses, read documentations, watched lectures and training materials, coded some pet projects. After I got into a small team that develops an educational website, I continued to study and apply the knowledge gained in practice. I try to be on the wave of my stack, open to learning new technologies, I like to write high-quality, testable code. I want to implement my skills in a difficult, high load project, to be part of a team that develops business and makes a product useful to people.
+
 ## **Skills**
 
 - JavaScript (ES6+)
